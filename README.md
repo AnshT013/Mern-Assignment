@@ -8,7 +8,7 @@
 
 #Features
 
-•Basic table structure using <table>, <tr>, <td>, and <th>
+•Basic table structure 
 
 •Merging cells using rowspan and colspan
 
